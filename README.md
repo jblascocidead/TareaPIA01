@@ -8,4 +8,5 @@ Repositorio creado para la primera tarea de **programación de inteligencia arti
 # Enlaces importantes
 
 Archivo creado [hola mundo](hola_mundo.py)
+<br>
 Perfil en [twitter](https://twitter.com/ia_jdev)
